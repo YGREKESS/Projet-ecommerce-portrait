@@ -1,0 +1,52 @@
+/* .upload-zone-container{
+	width: 30rem;
+} */
+.upload-advice{
+	height: auto;
+}
+.bad-way-upload{
+
+}
+.bad-way-photo{
+	height: 10rem;
+	width: 10rem;
+}
+.bad-way-photo img{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+
+.good-way-photo{
+	height: 10rem;
+	width: 10rem;
+}
+.good-way-photo img{
+	height: 100%;
+	width: 100%;
+	object-fit: contain;
+}
+.sign-icon{
+	height: 10rem;
+	width: 10rem;
+}
+.advice-list ul li{
+	line-height: 2rem;
+	list-style-type: square;
+}
+/* .cross{
+	color: #C7D4DA;
+} */
+
+
+
+
+
+/* .img-name{
+	white-space: nowrap;
+} */
+
+
+.progress-bar-div{
+
+}

@@ -1,0 +1,26 @@
+.modeles-page-container{
+	min-height: 100vh;
+}
+
+.filter-style{
+	position: relative;
+	cursor: pointer;
+	height: 10rem;
+	width: 15rem;
+}
+.filter-style img{
+	height: 10rem;
+	width: 100%;
+	object-fit: cover;
+	box-shadow: rgba(50, 50, 93, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+
+}
+.div-title{
+	position: absolute;
+	top: 0;
+	height: 100%;
+	width: 100%;
+}
+.div-title h4{
+	background-color: #5DB8F8;
+}
